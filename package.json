@@ -1,7 +1,7 @@
 {
-  "name": "bot-zorin",
+  "name": "ironhands-bot",
   "version": "1.0.0",
-  "description": "Discord Bot Zorin",
+  "description": "Discord Bot Iron Hands",
   "main": "index.js",
   "engines": {
     "node": "20.x"
