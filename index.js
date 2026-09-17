@@ -212,7 +212,7 @@ bot.on("messageCreate", async (message) => {
     if (command === `${PREFIX}help`) {
       const help = new EmbedBuilder()
         .setColor(COLOR)
-        .setTitle("🤖 ZORIN BOT — BẢNG LỆNH")
+        .setTitle("🤖 Iron Hands BOT — BẢNG LỆNH")
         .setDescription(`Tiền tố: \`${PREFIX}\` • Coin chỉ là tiền ảo trong bot`)
         .addFields(
           {
