@@ -1,14 +1,17 @@
 {
-  "name": "ironhands-bot",
+  "name": "bot-ironhands",
   "version": "1.0.0",
-  "description": "Discord Bot Iron Hands",
+  "description": "Discord Bot Ironhands",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "engines": {
     "node": "20.x"
   },
   "dependencies": {
-  "discord.js": "^14.27.0",
-  "dotenv": "^17.4.2",
-  "express": "^4.19.2"
-} 
+    "discord.js": "^14.27.0",
+    "dotenv": "^17.4.2",
+    "express": "^4.19.2"
+  }
 }
